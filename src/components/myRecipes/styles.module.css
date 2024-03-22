@@ -1,0 +1,11 @@
+.mainContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.recipesContainer {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin-top: 3%;
+}

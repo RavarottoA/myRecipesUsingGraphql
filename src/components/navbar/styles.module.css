@@ -1,0 +1,14 @@
+.mainContainer {
+    background-color: rgb(64, 142, 64);
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    align-items: center;
+}
+
+.loginBtn {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
